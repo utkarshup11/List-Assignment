@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80c4bd7c-884e-4baa-b534-5b8aaaa819ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/knoldus/List/LastElement.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/knoldus/List/LastElement.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/knoldus/List/ListApi.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/knoldus/List/TableImpl.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/knoldus/List/TableImpl.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/knoldus/Queue/QueueApi.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/knoldus/Queue/QueueImpl.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/knoldus/Queue/QueueImpl.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/knoldus/Stack/StackApi.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/knoldus/Stack/StackImpl.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/knoldus/Stack/StackImpl.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pbl1VrIVSJ6W1rBEcbM1ZTaV3Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.StackTest.peep operation should throw NoSuchElementException when trying to get first element from an empty stack">
+    <configuration name="StackTest.peep operation should return first element correctly from the stack" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="List-Assignment" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="com.knoldus.Stack.StackTest" />
+      <option name="testName" value="peep operation should return first element correctly from the stack" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest.peep operation should return first element from the stack" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="List-Assignment" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="com.knoldus.Stack.StackTest" />
+      <option name="testName" value="peep operation should return first element from the stack" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest.peep operation should throw NoSuchElementException when trying to get first element from an empty stack" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="List-Assignment" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="com.knoldus.Stack.StackTest" />
+      <option name="testName" value="peep operation should throw NoSuchElementException when trying to get first element from an empty stack" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest.pop operation should delete last inserted element correctly from stack" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="List-Assignment" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="com.knoldus.Stack.StackTest" />
+      <option name="testName" value="pop operation should delete last inserted element correctly from stack" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest.pop operation should delete last inserted element from stack" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="List-Assignment" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="com.knoldus.Stack.StackTest" />
+      <option name="testName" value="pop operation should delete last inserted element from stack" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.StackTest.peep operation should throw NoSuchElementException when trying to get first element from an empty stack" />
+        <item itemvalue="ScalaTest.StackTest.peep operation should return first element correctly from the stack" />
+        <item itemvalue="ScalaTest.StackTest.peep operation should return first element from the stack" />
+        <item itemvalue="ScalaTest.StackTest.pop operation should delete last inserted element correctly from stack" />
+        <item itemvalue="ScalaTest.StackTest.pop operation should delete last inserted element from stack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80c4bd7c-884e-4baa-b534-5b8aaaa819ed" name="Default Changelist" comment="" />
+      <created>1615459462510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615459462510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

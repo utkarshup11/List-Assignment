@@ -1,25 +1,36 @@
+// Copyright (C) 2011-2012 the original author or authors.
+// See the LICENCE.txt file distributed with this work for additional
+// information regarding copyright ownership.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+// http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 package com.knoldus.Stack
 
 class StackImpl {
 
   def push(stack: List[Int], element: Int): List[Int] = element :: stack
 
-  def pop(stack : List[Int]) : List[Int] = {
-    if(stack.isEmpty) {
-      println("Stack is already empty , there is no element to perform delete operation --")
-      List()
-
-    } else
-      stack.tail
+  def pop(stack : List[Int]) : Any = {
+    stack match {
+      case Nil => throw new NoSuchElementException
+      case _ => stack.tail
+    }
   }
 
   def peek(stack : List[Int]) : Int = {
-    if(stack.isEmpty) {
-      println("Stack is empty , there is no element to perform peek operation --")
-      0
+    stack match {
+      case Nil => throw new NoSuchElementException
+      case _ => stack.head
     }
-      else
-      stack.head
   }
 
 
